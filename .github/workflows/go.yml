@@ -5,9 +5,9 @@ name: go_backend_homework_12_sprint
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "first-iteration" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "first-iteration" ]
 
 jobs:
 
