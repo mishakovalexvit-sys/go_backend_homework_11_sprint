@@ -6,6 +6,7 @@ name: go_backend_homework_12_sprint
 on:
   push:
     branches: [ "first-iteration" ]
+    tags: [ "v*" ]    
   pull_request:
     branches: [ "first-iteration" ]
 
